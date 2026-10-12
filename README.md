@@ -1,4 +1,4 @@
-![image](https://github.com/0error-scripts/aicore_fireworks/assets/85725579/4f75c182-cd3b-412a-bdaa-e2d5913827bd)
+![image](https://github.com/aicore-fivem/aicore_fireworks/assets/85725579/4f75c182-cd3b-412a-bdaa-e2d5913827bd)
 
 # aicore_fireworks
  

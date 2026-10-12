@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 description 'aicore_fireworks'
-repository 'https://github.com/0error-scripts/aicore_fireworks'
+repository 'https://github.com/aicore-fivem/aicore_fireworks'
 version '1.3.0'
 
 ox_lib 'locale'

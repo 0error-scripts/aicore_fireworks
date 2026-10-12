@@ -1,4 +1,4 @@
-lib.versionCheck('0error-scripts/aicore_fireworks')
+lib.versionCheck('aicore-fivem/aicore_fireworks')
 
 local config = require 'config.shared'
 local placementTokens = {}
